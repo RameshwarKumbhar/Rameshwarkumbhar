@@ -4,7 +4,7 @@
 
 
 <p align="left">
-  <img width="460" height="300" src="![profile](https://github.com/RameshwarKumbhar/Rameshwarkumbhar/assets/97970935/c5b590c2-0ef4-43b5-b031-96a5eb814e8c)">
+  <img width="350" height="100" src="![profile](https://github.com/RameshwarKumbhar/Rameshwarkumbhar/assets/97970935/c5b590c2-0ef4-43b5-b031-96a5eb814e8c)">
 </p>
 
 ###                                               Hi 👋, I'm Rameshwar Kumbhar
