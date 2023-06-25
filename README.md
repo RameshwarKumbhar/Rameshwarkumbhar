@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning #Data Science, Java, Python
+- 🔭 I’m currently working on various projects
 - 👯 I’m looking to collaborate on iNeuron Inteligences
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
