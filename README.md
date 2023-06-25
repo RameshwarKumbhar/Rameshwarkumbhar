@@ -7,7 +7,7 @@
   <img width="120" height="110" src="![profile](https://github.com/RameshwarKumbhar/Rameshwarkumbhar/assets/97970935/c5b590c2-0ef4-43b5-b031-96a5eb814e8c)" >
 </p>
 
-###                                       <p align="center">        Hi 👋, I'm Rameshwar Kumbhar   </p>
+##                                       <p align="center">        Hi 👋, I'm Rameshwar Kumbhar   </p>
 
 <!--
 **RameshwarKumbhar/Rameshwarkumbhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
