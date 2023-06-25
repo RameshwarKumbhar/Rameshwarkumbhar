@@ -1,7 +1,6 @@
 
-
 <p align="center">
-  <img src="![profile](https://github.com/RameshwarKumbhar/Rameshwarkumbhar/assets/97970935/5f2bcf4c-5dee-44c1-b4c9-5400c8f1bc9d)" alt="animated" />
+![profile](https://github.com/RameshwarKumbhar/Rameshwarkumbhar/assets/97970935/c5b590c2-0ef4-43b5-b031-96a5eb814e8c)
 </p>
 <!--
 <p align="center">
