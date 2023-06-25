@@ -2,7 +2,7 @@
 
 
 
-![Backend-Developer-Python-GIF-Dribble](https://github.com/RameshwarKumbhar/Rameshwarkumbhar/assets/97970935/13e2908e-d390-40a8-a451-d2d6fb6cd9d2=50*50)
+![Backend-Developer-Python-GIF-Dribble](https://github.com/RameshwarKumbhar/Rameshwarkumbhar/assets/97970935/13e2908e-d390-40a8-a451-d2d6fb6cd9d2|width=50)
 
 ###                                               Hi 👋, I'm Rameshwar Kumbhar
 
