@@ -1,7 +1,7 @@
 <!-- ![profile](https://github.com/RameshwarKumbhar/Rameshwarkumbhar/assets/97970935/c5b590c2-0ef4-43b5-b031-96a5eb814e8c)    -->
 
 <p align="center">
-  <img width="180" height="170" src="[https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif](https://media2.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif)" >
+  <img width="180" height="170" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" >
 </p>
 
 ##                                       <p align="center">        Hi 👋, I'm Rameshwar Kumbhar   </p>
