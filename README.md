@@ -14,7 +14,7 @@ Here are some ideas to get you started:
  - 😄 Pronouns: ...
 - 🤔 I’m looking for help with ...
 -->
-<p align="rigth">
+<p align="left">
   <img width="300" height="200" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" >
 </p>
 - 🌱 I’m currently learning **Data Science**, **Java** and **Python**
