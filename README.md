@@ -1,9 +1,5 @@
-
-
-
-
 <p align="center">
-  <img width="460" height="300" src="[https://picsum.photos/460/300](https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble./my.gif)">
+  <img width="460" height="300" src="[https://picsum.photos/460/300](https://www.sarvika.com/wp-content/uploads/2021/03/./Backend-Developer-Python-GIF-Dribble.gif)">
 </p>
 
 ###                                               Hi 👋, I'm Rameshwar Kumbhar
