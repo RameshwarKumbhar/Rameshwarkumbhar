@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 <p align="right">
   <img width="300" height="200" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" >
 </p>
+<p align="left">
 - 🌱 I’m currently learning **Data Science**, **Java** and **Python**
 - 🔭 I’m currently working on various projects
 - 👯 I’m looking to collaborate on iNeuron Inteligences
 - 📫 How to reach me rrkumbhar1110@gmail.com
 - ⚡ Fun fact: **Coding is solution of Future...**
+</p>
 
