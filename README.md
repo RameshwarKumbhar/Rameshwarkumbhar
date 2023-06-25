@@ -14,6 +14,9 @@ Here are some ideas to get you started:
  - 😄 Pronouns: ...
 - 🤔 I’m looking for help with ...
 -->
+<p align="rigth">
+  <img width="300" height="200" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" >
+</p>
 - 🌱 I’m currently learning **Data Science**, **Java** and **Python**
 - 🔭 I’m currently working on various projects
 - 👯 I’m looking to collaborate on iNeuron Inteligences
