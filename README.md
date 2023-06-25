@@ -1,4 +1,4 @@
-###                                                  Hi 👋, I'm Rameshwar Kumbhar
+###                                               Hi 👋, I'm Rameshwar Kumbhar
 
 <!--
 **RameshwarKumbhar/Rameshwarkumbhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
