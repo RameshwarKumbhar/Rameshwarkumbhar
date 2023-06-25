@@ -3,7 +3,7 @@
 
 
 
-<p align="left">
+<p align="centre">
   <img width="100" height="100" src="![profile](https://github.com/RameshwarKumbhar/Rameshwarkumbhar/assets/97970935/c5b590c2-0ef4-43b5-b031-96a5eb814e8c)">
 </p>
 
