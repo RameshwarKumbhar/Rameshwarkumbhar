@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 <p align="right">
-  <img width="300" height="200" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" >
+  <img width="350" height="300" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" >
 </p>
 <p align="left">
 - 🌱 I’m currently learning **Data Science**, **Java** and **Python**
