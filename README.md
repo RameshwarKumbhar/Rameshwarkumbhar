@@ -4,7 +4,7 @@
   <img  width="350" height="300" src="https://media.licdn.com/dms/image/D5612AQFJMQxvDrFDHg/article-cover_image-shrink_600_2000/0/1682716591910?e=2147483647&v=beta&t=USY1RnzfbDInHfec9aTM4KMjWPfhGw2jd156sv3Gno0">
 </p>
 
-#                                      <p align="center">        Hi 👋, I'm Rameshwar Kumbhar   </p>
+#                                      <p align="center">      **  Hi 👋, I'm Rameshwar Kumbhar**   </p>
 
 <!--
 **RameshwarKumbhar/Rameshwarkumbhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
