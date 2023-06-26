@@ -1,8 +1,7 @@
 <!-- ![profile](https://github.com/RameshwarKumbhar/Rameshwarkumbhar/assets/97970935/c5b590c2-0ef4-43b5-b031-96a5eb814e8c)    -->
 
 <p align="center">
-  <img  width="300" height="200" src="![image](https://github.com/RameshwarKumbhar/Rameshwarkumbhar/assets/97970935/01514afb-2dde-49ae-927d-761128cf4abc)
-" >
+  <img  width="300" height="200" src=" ![profile](https://github.com/RameshwarKumbhar/Rameshwarkumbhar/assets/97970935/c5b590c2-0ef4-43b5-b031-96a5eb814e8c)">
 </p>
 
 ##                                       <p align="center">        Hi 👋, I'm Rameshwar Kumbhar   </p>
