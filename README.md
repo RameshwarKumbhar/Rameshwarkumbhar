@@ -1,6 +1,6 @@
 <!-- ![profile](https://github.com/RameshwarKumbhar/Rameshwarkumbhar/assets/97970935/c5b590c2-0ef4-43b5-b031-96a5eb814e8c)    -->
 <p align="center">
-  <img  width="320" height="290" src="https://media.licdn.com/dms/image/D5612AQFJMQxvDrFDHg/article-cover_image-shrink_600_2000/0/1682716591910?e=2147483647&v=beta&t=USY1RnzfbDInHfec9aTM4KMjWPfhGw2jd156sv3Gno0">
+  <img  width="270" height="240" src="https://media.licdn.com/dms/image/D5612AQFJMQxvDrFDHg/article-cover_image-shrink_600_2000/0/1682716591910?e=2147483647&v=beta&t=USY1RnzfbDInHfec9aTM4KMjWPfhGw2jd156sv3Gno0">
 </p>
 
    #                                  <p align="center">      ***Hi 👋, I'm Rameshwar Kumbhar***    </p>
