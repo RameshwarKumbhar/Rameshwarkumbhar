@@ -1,6 +1,6 @@
 <!-- ![profile](https://github.com/RameshwarKumbhar/Rameshwarkumbhar/assets/97970935/c5b590c2-0ef4-43b5-b031-96a5eb814e8c)    -->
 <p align="center">
-  <img  width="270" height="240" src="https://media.licdn.com/dms/image/D5612AQFJMQxvDrFDHg/article-cover_image-shrink_600_2000/0/1682716591910?e=2147483647&v=beta&t=USY1RnzfbDInHfec9aTM4KMjWPfhGw2jd156sv3Gno0">
+  <img  width="270" height="240" src="https://media.licdn.com/dms/image/D5612AQFJMQxvDrFDHg/article-cover_image-shrink_600_2000/0/1682716591910?e=2147483647&v=beta&t=USY1RnzfbDInHfec9aTM4KMjWPfhGw2jd156sv3Gno0" alt="Profile gif">
 </p>
 
    #                                  <p align="center">      ***Hi 👋, I'm Rameshwar Kumbhar***    </p>
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
  - 😄 Pronouns: ...
 - 🤔 I’m looking for help with ...
 -->
-  <img align="right" width="450" height="350" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" > <br>
+  <img align="right" width="450" height="350" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" alt="Programmer gif"> <br>
   <br>
   
 - 🌱 I’m currently learning **Data Science Master**, **Java** and **Python**
